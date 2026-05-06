@@ -11,8 +11,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Файлы IDE (например, VS Code)
+# Файлы данных приложения и IDE
+expenses.json
 .vscode/
-
-# Файлы данных приложения
-books.json
